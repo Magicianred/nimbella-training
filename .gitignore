@@ -1,1 +1,8 @@
 tmp/
+node_modules/
+virtualenv/
+*.zip
+.nimbella/
+.DS_Store
+.vscode/
+attic/
